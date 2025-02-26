@@ -1,0 +1,252 @@
+body{
+    background-color: rgb(155, 147, 147);
+    padding-left: 25px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.box{
+    background-color: rgb(209, 19, 19);
+    width: 1400px;
+    height: 250px;
+    justify-content: center;
+    margin-top: -11%;
+}
+.topic{
+    text-align: center;
+    margin-top: 94px;
+    margin-bottom: -5%;
+    margin-left: 5%;
+    display: flex;
+    font-size: 60px;
+    color: rgb(243, 238, 228);
+    margin-right: 0%;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.bac{
+    margin-top: -0%;
+}
+.links{
+    align-content: space-evenly;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    gap: 20px;
+    display: inline-flex;
+    justify-content: center;
+    background-color: rgb(209, 19, 19);
+    height: 50px;
+    width: 1400px;
+    padding-top: 15px;
+    margin-bottom: -20%;
+    margin-top: -7%;
+    
+    
+}
+.boarder{
+    border-radius: 40px;
+    margin-bottom: -4%;
+}
+.image{
+    border-radius: 50px;   
+}
+.happy{
+    font-size: 100px;
+    color:rgb(243, 238, 228);
+    text-align: center;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    margin-top: -2%;
+}
+.appy{
+    text-align: left;
+    
+     
+}
+.cos{
+    margin-right: 27%;
+    text-align: right;
+}
+ 
+.head{
+    display: flex;
+    background-color: rgb(116, 68, 34);
+    justify-content: space-between;
+    width: 1400px;
+    margin-top: -1%;
+    margin-bottom: -0%;
+    
+}
+.loo{
+    margin-left: 20%;
+    text-align: left
+}
+.imge{
+     border-radius: 100px;
+    height: 250x;
+    width: 400px;
+}
+.look{
+    margin-top: 4%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: left;
+    color: rgb(243, 238, 228);
+    margin-bottom: -3%;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.lorem{
+    margin-top: 5%;
+    font-weight: 600;
+    font-size: 17px;
+    color: rgb(243, 238, 228);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+
+.add{
+    margin-top: 6%;
+    margin-right: 3%;
+    font-weight: 600;
+    font-size: 15px;
+    color:  rgb(243, 238, 228);
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 2%;
+}
+
+.beauty{
+    background-color: rgb(209, 19, 19);
+    text-align: center;
+    margin-right: -30%;
+    margin-top: -50%;
+    width: 370px;
+    margin-left: 79.5%;
+    height: 600;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.background{
+    width: -370px;
+    height: -700px;
+    margin-left: 61.5%;
+    margin-left: 88%;
+    
+ 
+}
+.for{
+    color: white;
+    font-size: 25px;
+    padding-top: 1%;
+}
+.form{
+    color: white;
+    font-size: 20px;
+    padding-top: 1%;
+
+}
+.arrow{
+    border-radius: 20px;
+}
+.want{
+    color: white;
+    font-size: 20px;
+    padding-top: 1%;
+}
+.label{
+    text-align: center;
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+
+}
+.oda{
+    margin-top: 10%;
+   text-align: center;
+   background-size: contain;
+}
+.dark{
+    margin-top: -3.5%;
+    margin-left: 56.0%;
+    
+}
+.complexion{
+    color: rgb(209, 19, 19);
+    background-color: white;
+    width: 708px;
+    height: 280px;
+    text-align: center;
+    margin-top: -27.5%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 46px;
+    padding-top: 5%;
+    margin-left: 20px%;
+}
+.steps{
+    background-color: beige;
+    width: 1397px;
+   margin-top: -8%;
+}
+.SKON{
+    font-size: 25px;
+    color:rgb(70, 57, 57);
+    margin-top: 1%;
+    width: 150px;
+    margin-left: 7%;
+}
+.SKUN{
+    font-size: 25px;
+    color: rgb(70, 57, 57);
+    margin-top: 1%;
+    width: 150px;
+    margin-left: 10%;
+}
+.SKAN{
+    font-size: 25px;
+    color: rgb(70, 57, 57);
+    margin-top: 2%;
+    margin-left: 10%;
+}
+.confi{
+    margin-top: -4.1%;
+}
+.nourish{
+    margin-left: 36%;
+    margin-top: -26.5%;
+}
+.confe{
+    margin-left: 71.5%;
+    margin-top: -26%;
+}
+.styl{
+    background-color: beige;
+    margin-top: -2%;
+    width: 1400px;
+}
+.internet{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 150px;
+    margin-top: 2%;
+    background-color: ;
+    width: 1400px;
+}
+
+
+@media(max-width: 482px){
+    
+    h1{
+        display: flex;
+        flex-direction: column;
+        width: 480;
+
+    }
+}
+
+
+

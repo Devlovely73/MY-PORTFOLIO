@@ -1,0 +1,148 @@
+.free{
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.first{
+    display: flex;
+    gap: 95px;
+    align-content: space-between;
+    padding-top: 5px;
+    font-size: 15px;
+    
+}
+.second{
+    display: flex;
+    margin-left: 58%;
+    gap: 100px;
+    margin-top: -5%;
+    
+
+}
+.third{
+    margin-top: -9%;
+    border-radius: 30%;
+    margin-left: 19%;  
+}
+.fourth{
+    margin-left: 53%;
+    margin-top: -58%;
+}
+.fifth{
+    margin-left: 42%;
+    margin-top: -40%;
+}
+.sixth{
+    margin-top: -35%;
+}
+.seventh{
+    text-align: center;
+    margin-left: 60%;
+    margin-top: 30%;
+    color: rgb(83, 68, 68);
+    font-size: 20;
+    font-family: cursive;
+}
+.shop{
+    font-family: cursive;
+    color: rgb(83, 68, 68);
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 60%;
+}
+.eighth{
+    text-align: center;
+    margin-left: 5%;
+    font-family: cursive;
+    color: rgb(83, 68, 68);
+}
+.nineth{
+    display: flex;
+    gap: 50px;
+    margin-left: 0.5%;
+    margin-top: -350px;
+}
+.tenth{
+    color: white;
+    margin-top: 6%;
+    margin-left: 50%;
+    border: 2px;
+}
+.do{
+    text-align: center;
+    color: rgb(83, 68, 68);
+    font-size: 20px;
+    font-family: cursive;
+}
+.eleven{
+    margin-top: -44.5%;
+    margin-left: 68.5%;
+}
+.twelve{
+    margin-top: -15%;
+    margin-left: 200px;
+}
+.thirten{
+    margin-top: -181.5px;
+}
+.forteen{
+    margin-left: 70%;
+    margin-top: -20%;
+    text-align: center;
+    font-family: cursive;
+    color: rgb(83, 68, 68);
+}
+.fifteenth{
+    margin-left: 60%;
+    display: flex;
+    gap: 60px;
+    text-align: center;
+    font-family: cursive;
+    color: rgb(83, 68, 68);
+    margin-top: 2%;
+    font-weight: bolder;
+}
+.sixteen{
+    font-family: cursive;
+    color: rgb(83, 68, 68);
+    margin-top: -41.7%;  
+}
+.seveteen{
+    margin-top: 40%;
+}
+.eighteen{
+    margin-top: -10%;
+    margin-left: 50%;
+}
+.ninteen{
+    margin-top: -22%;
+    margin-left: 19%;
+}
+.twenty{
+    text-align: center;
+    margin-top: -15%;
+    color: white;
+}
+.twenty1{
+    height: 180px;
+    width: 680px;
+    margin-top: -16.8%;
+    margin-left: 20%;
+}
+.twenty2{
+    margin-left: 34%;
+    margin-top: 2%;
+}
+.twenty3{
+    display: flex;
+    gap: 80px;
+    margin-left: 24%;
+    margin-top: 2%;
+    font-size: 20px;
+    color: white;
+
+}
+
+
+@media(max-width: 480px){
+    
+}
